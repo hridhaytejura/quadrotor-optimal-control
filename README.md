@@ -8,4 +8,6 @@ Research methods include:
 3. Qualitative analysis
 
 [LUMIERE RESEARCH PAPER - Hridhay Tejura_final.pdf](https://github.com/user-attachments/files/22457376/LUMIERE.RESEARCH.PAPER.-.Hridhay.Tejura_final.pdf)
+
+
 [Lumiere Quadrotor Research Presentation PDF.pdf](https://github.com/user-attachments/files/22457378/Lumiere.Quadrotor.Research.Presentation.PDF.pdf)
